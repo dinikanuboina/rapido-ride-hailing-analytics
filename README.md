@@ -42,6 +42,13 @@ This project analyzes a ride-hailing marketplace dataset with **50,000+ ride tra
 
 ## 🚀 Business Impact
 Insights from this dashboard can support **driver supply planning**, **pricing transparency**, and **operational risk reduction** in ride-hailing marketplaces.
+## 📷 Dashboard Preview
 
+### Overview Page
+![Overview](overview.png)
+
+### Analysis Page
+![Analysis](analysis.png)
 ## 👤 Author
 Dinesh
+
