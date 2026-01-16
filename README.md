@@ -50,4 +50,10 @@ Insights from this dashboard can support **driver supply planning**, **pricing t
 - [Analysis Dashboard (PDF)](reports/analysis.pdf)
 ## 👤 Author
 Dinesh
+Aspiring Data Analyst | Data Science
+GitHub: https://github.com/dinikanuboina
+Linkedin : www.linkedin.com/in/
+kanuboinadinesh
+
+
 
