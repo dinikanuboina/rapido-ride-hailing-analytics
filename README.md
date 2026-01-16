@@ -35,6 +35,7 @@ This project analyzes a ride-hailing marketplace dataset with **50,000+ ride tra
 - Normalized cancellation rates provide fair comparison across services
 
 ## 🛠 Tools & Technologies
+- Python
 - Power BI
 - DAX
 - Data Modeling
